@@ -1,0 +1,1 @@
+print("I am Sayandip Manna\n\"I am learning\tPython\"")
